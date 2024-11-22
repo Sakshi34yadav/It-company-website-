@@ -1,0 +1,13 @@
+body{
+
+    
+    background-position: center;
+    background-size: cover;
+    min-height: 100%;
+}header{
+    background-image: url("D:\Desktop\IT Company\download (1).jpg");
+    background-position: center,top right;
+    background-size: cover,contain;
+    background-repeat: no-repeat, no-repeat,no-repeat,no-repeat;
+    
+}
